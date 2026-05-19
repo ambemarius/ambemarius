@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 ![Access](https://img.shields.io/badge/-Access-A4373A?style=flat&logo=microsoft-access)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-217346?style=flat&logo=microsoft-excel)
