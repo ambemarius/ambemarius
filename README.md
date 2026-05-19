@@ -41,6 +41,11 @@ Here are some ideas to get you started:
   ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure-devops)
   ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)
+  ![APIs](https://img.shields.io/badge/-APIs-333333?style=flat&logo=fastapi)
+  ![REDCap](https://img.shields.io/badge/-REDCap-B22222?style=flat&logo=database)
+  ![Kobo Toolbox](https://img.shields.io/badge/-Kobo%20Toolbox-1E90FF?style=flat&logo=ko-fi)
+  ![Google Forms](https://img.shields.io/badge/-Google%20Forms-673AB7?style=flat&logo=google-forms)
+
 
   
 
