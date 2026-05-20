@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Marius
+## 📬 Connect with Me
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:ambengwa48@gmail.com)](mailto:ambengwa48@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=237674003320&text=Hi!🖖)](https://api.whatsapp.com/send?phone=237674003320&text=Hi!🖖)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ambe-marius-ngwa)](https://www.linkedin.com/in/ambe-marius-ngwa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ambe%20marius%20ngwa)](https://www.instagram.com/ambe%20marius%20ngwa)
 
 <!--
 **ambemarius/ambemarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
