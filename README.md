@@ -1,4 +1,16 @@
 ## Hi there 👋, I'm Marius
+
+## 👋 About Me
+
+- 🔭 I’m currently working on building a data pipeline for an NPOC TB Project, supporting community-level health centers in TB screening and testing using Pluslife technology.  
+- 🌱 I’m expanding my skills in AI engineering, focusing on LLMs, RAG, intelligent agents, and monitoring & evaluation frameworks.  
+- 👯 I’m open to collaborating with companies, NGOs, organizations, and open-source projects on impactful data and AI initiatives.  
+- 💬 Ask me anything about data analytics — from pipelines to dashboards, I love solving data challenges.  
+- 📫 Reach me through the **Connect with Me** section below.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: If AI takes over all jobs, I’ll probably end up applying for a role as “Chief Prompt Engineer for Coffee Machines.” ☕🤖  
+
+
 ## 📬 Connect with Me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:ambengwa48@gmail.com)](mailto:ambengwa48@gmail.com)
